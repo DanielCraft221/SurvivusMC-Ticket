@@ -1,0 +1,27 @@
+{
+  "name": "survivusmc-ticket",
+  "version": "1.0.0",
+  "description": "Um bot de Discord para gerenciamento de tickets de suporte no servidor **SurvivusMC**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielCraft221/SurvivusMC-Ticket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielCraft221/SurvivusMC-Ticket/issues"
+  },
+  "homepage": "https://github.com/DanielCraft221/SurvivusMC-Ticket#readme",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0",
+    "glob": "^11.0.2",
+    "ms": "^2.1.3"
+  }
+}
